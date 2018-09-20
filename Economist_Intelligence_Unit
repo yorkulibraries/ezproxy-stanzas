@@ -1,0 +1,91 @@
+
+T EIU Portal
+U http://www.eiu.com/default.aspx
+H www.eiu.com
+HJ https://portal.eiu.com
+HJ eiu.com
+HJ country.eiu.com
+HJ portal.eiu.com
+HJ search.eiu.com
+HJ data.eiu.com
+HJ graphics.eiu.com
+HJ gfs.eiu.com
+HJ pages.eiu.com
+HJ service.eiu.com
+HJ [For clients with corporate landing pages, the unique, full URL of EIU corporate landing page goes here.  URL example:  http://www.eiu.com/site_info.asp?info_name=corporate_landing_account_name  -- see techsupport@eiu.comfor assistance]
+HJ [For clients with corporate landing pages, the shortcut URL the landing page goes here. URL example: http://eiu.com/client_name-- see techsupport@eiu.comfor assistance]
+D eiu.com
+DJ EIU.com   
+T EIU Viewswire
+U http://viewswire.eiu.com
+H viewswire.eiu.com
+HJ viewswire.com
+HJ www.viewswire.com
+HJ search.eiu.com
+HJ data.eiu.com
+HJ graphics.eiu.com
+HJ service.eiu.com
+D viewswire.com
+DJ viewswire.eiu.com   
+T Economist.com via corporate IP portal
+U (Unique client URL goes here, contact techsupport@eiu.com for assistance)
+H economist.com
+HJ www.economist.com
+HJ stage.economist.com
+D economist.com
+DJ economist.com   
+T EIU Dataservices Alacra (global product landing page)
+U http://www.alacra.com/cgi-bin/login.exe?app=login&msg=ExecContent&product=17
+D alacra.com
+H www.alacra.com
+HJ eiu.alacra.com
+HJ alacra.com
+DJ www.alacra.com   
+T EIU BvD (multiple products)
+U http://eiu.bvdep.com/ipall
+D eiu.bvdep.com
+H eiu.bvdep.com
+HJ bvdep.com
+DJ eiu.bvdep.com   
+T EIU MIF BvD
+U https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=103&user=ipaddress
+D eiu.bvdep.com
+H eiu.bvdep.com
+HJ bvdep.com
+DJ eiu.bvdep.com   
+T EIU Country Data BvD
+U https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=102&user=ipaddress
+D eiu.bvdep.com
+H eiu.bvdep.com
+HJ bvdep.com
+DJ eiu.bvdep.com   
+T EIU City Data BvD
+U https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=102&user=ipaddress
+D eiu.bvdep.com
+H eiu.bvdep.com
+HJ bvdep.com
+DJ eiu.bvdep.com   
+T EIU Risk Model BvD
+U https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=105&user=ipaddress
+D eiu.bvdep.com
+H eiu.bvdep.com
+HJ bvdep.com
+DJ eiu.bvdep.com   
+T EIU WIS BvD
+U https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=106&user=ipaddress
+D eiu.bvdep.com
+H eiu.bvdep.com
+HJ bvdep.com
+DJ eiu.bvdep.com   
+T EIU Country Risk Model BvD
+U https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=105&user=ipaddress
+D eiu.bvdep.com
+H eiu.bvdep.com
+HJ bvdep.com
+DJ eiu.bvdep.com   
+T EIU Operational Risk Model BvD
+U https://eiu.bvdep.com/version-2010126/cgi/template.dll?product=109&user=ipaddress
+D eiu.bvdep.com
+H eiu.bvdep.com
+HJ bvdep.com
+DJ eiu.bvdep.com

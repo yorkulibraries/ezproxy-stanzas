@@ -1,0 +1,6 @@
+
+Option DomainCookieOnly
+Title -hide EBSCO Full Text Finder
+URL http://resolver.ebscohost.com
+HJ resolver.ebscohost.com
+Option Cookie

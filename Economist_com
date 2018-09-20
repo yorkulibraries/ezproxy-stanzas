@@ -1,0 +1,36 @@
+
+Option DomainCookieOnly
+PHE www.economist.com$ www-economist-com
+AnonymousURL +*//www.economist.com/*
+Title Economist.com (updated 20180905)
+URL https://www.economist.com/
+H http://www.economist.com
+HJ https://www.economist.com
+HJ audiovideo.economist.com
+HJ radio.economist.com
+HJ films.economist.com
+HJ jobs.economist.com
+HJ success.economist.com
+HJ execed.economist.com
+HJ gre.economist.com
+HJ mediadirectory.economist.com
+HJ shop.economist.com
+HJ recruiters.jobs.economist.com
+HJ store.economist.com
+HJ na.economist.com
+HJ www.economist.com
+DJ economist.com
+DJ static-economist.com
+NeverProxy apis.google.com
+Find gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+Replace gcse.src = (document.location.protocol == 'https:' ? 'https://^swww.google.com^' : 'http://^pwww.google.com^') + '/cse/cse.js?cx=' + cx ,
+Find "uds": "www.google.com"
+Replace "uds": "^swww.google.com^"
+Find domain: 'horizon.economist.com',
+Replace domain: '^phorizon.economist.com^',
+Find "http:\/\/www.economist.com\/
+Replace "http:\/\/^pwww.economist.com^\/
+Find "https:\/\/www.economist.com\/
+Replace "https:\/\/^swww.economist.com^\/
+AnonymousURL -*
+Option Cookie
